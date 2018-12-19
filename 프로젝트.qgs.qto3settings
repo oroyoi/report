@@ -1,0 +1,30 @@
+{
+  "DEM": {
+    "checkBox_Clip": false, 
+    "checkBox_Frame": false, 
+    "checkBox_Shading": true, 
+    "checkBox_Sides": true, 
+    "checkBox_Surroundings": false, 
+    "checkBox_TransparentBackground": false, 
+    "comboBox_ClipLayer": "6차선이상_600m이상20181217161407131", 
+    "comboBox_DEMLayer": "3760820181217172353315", 
+    "comboBox_TextureSize": 100, 
+    "horizontalSlider_DEMSize": 2, 
+    "lineEdit_Color": "", 
+    "lineEdit_ImageFile": "", 
+    "lineEdit_centerX": "", 
+    "lineEdit_centerY": "", 
+    "lineEdit_rectHeight": "", 
+    "lineEdit_rectWidth": "", 
+    "radioButton_MapCanvas": true, 
+    "radioButton_Simple": true, 
+    "spinBox_Height": 4, 
+    "spinBox_Roughening": 4, 
+    "spinBox_Size": 5, 
+    "spinBox_demtransp": 0, 
+    "visible": false
+  }, 
+  "OutputFilename": "", 
+  "PluginVersion": "1.4.2", 
+  "Template": "3DViewer(dat-gui).html"
+}
